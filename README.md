@@ -38,7 +38,7 @@ Personal Tools
 
 Say hi or find me here on the internet
 
-![Personal Website](https://img.shields.io/badge/Personal_Website-1E90FF?style=for-the-badge&logo=awwwards&logoColor=white) ![Itch.io](https://img.shields.io/badge/Itch.io-FA5C5C?style=for-the-badge&logo=itchdotio&logoColor=white) ![X / Twitter](https://img.shields.io/badge/X%20%2F%20Twitter-000000?style=for-the-badge&logo=x&logoColor=white)
+[![Personal Website](https://img.shields.io/badge/Personal_Website-1E90FF?style=for-the-badge&logo=awwwards&logoColor=white)](https://hellowol.com) [![Itch.io](https://img.shields.io/badge/Itch.io-FA5C5C?style=for-the-badge&logo=itchdotio&logoColor=white)](https://hellowol.itch.io/) [![X / Twitter](https://img.shields.io/badge/X%20%2F%20Twitter-000000?style=for-the-badge&logo=x&logoColor=white)](https://twitter.com/hellowol_)
 
 
 ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=wolewd&theme=high-contrast&hide_border=true&hide_title=false&custom_title=Github%20Activity)

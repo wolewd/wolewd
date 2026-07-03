@@ -1,5 +1,5 @@
 # Henlo 👋
-I'm **William**, a Product Engineer. I turn IT and business needs into software solutions, from concept to implementation. At work, I build systems for business processes. In my free time, I build games just for fun as a hobby.
+I'm **William**, a Product Analyst. I turn IT and business needs into software solutions, from concept to implementation. At work, I build systems for business processes. In my free time, I build games just for fun as a hobby.
 
 ---
 ## Technologies
